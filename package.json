@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHoar/test-github-actions-with-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SHoar/test-github-actions-with-nodejs/issues"
+  },
+  "homepage": "https://github.comSHoar/test-github-actions-with-nodejs#readme",
   "keywords": [],
   "author": "",
   "license": "ISC"
